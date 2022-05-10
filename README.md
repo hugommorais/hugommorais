@@ -1,4 +1,4 @@
-<h2 align='center'>I'm Hugo 👋</h2>
+<h2 align='center'>Hello! It's me, Hugo</h2>
 <p align='center'>I'm a software developer from Brazil <span>&#x1f1e7;&#x1f1f7;</span></p>
 <p align='center'>
   <a href="https://twitter.com/hugommorais">
